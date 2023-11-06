@@ -1,0 +1,5 @@
+DIV 3
+1. Sunday Brunch (648) - simple question didn't do
+2. Dice Number (994) - simple question, completed
+3. Divisible by 8 (1660) - medium level time consuming, division by numbers topic, little help from chatgpt, completed.
+4. Unique XOR (1955) - medium level, but couldn't find pattern, Had to see solution, completed but couldn't do without help from solution. Try AGAIN

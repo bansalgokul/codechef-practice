@@ -1,0 +1,4 @@
+1. Best of Two (789) - 
+2. Caesar Cipher (1232) -
+3. Schrodinger Smiley (1371) - 
+4. Triplets Min (1868) - 

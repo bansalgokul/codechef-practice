@@ -1,0 +1,4 @@
+1. Transfusion Chain (1214) - simple question, had to observe the pattern. Completed
+2. Alt Tab (1396) - simple question, completed without any issue. Had to think about which ds to use, but vector + set proved most effective
+3. Evacuate To Moon (1479) - simple question, issue with int capacity , completed
+4. Boxes (1688) - Medium question, a bit tricky, couldn't think of logic myself, completed, try again.
