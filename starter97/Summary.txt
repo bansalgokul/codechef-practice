@@ -1,4 +1,4 @@
-1. Best of Two (789) - 
-2. Caesar Cipher (1232) -
-3. Schrodinger Smiley (1371) - 
+1. Best of Two (789) - simple, completed
+2. Caesar Cipher (1232) - simple, modulus heavy, completed
+3. Schrodinger Smiley (1371) - Simple, iterative, completed
 4. Triplets Min (1868) - 
